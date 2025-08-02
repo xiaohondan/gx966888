@@ -1,29 +1,6 @@
 # gx966888
 gx966888安装工具
-使用示例
-# 添加一个工具仓库
-repo-install add https://github.com/johnsmith/awesome-cli-tool.git
 
-# 添加另一个仓库
-repo-install add https://gitlab.com/devteam/productivity-suite.git
-
-# 列出所有仓库
-repo-install list
-# 输出:
-# 📋 Stored repositories:
-# https://github.com/johnsmith/awesome-cli-tool.git
-# https://gitlab.com/devteam/productivity-suite.git
-
-# 安装工具（交互式选择）
-repo-install install
-# 输出:
-# 1) https://github.com/johnsmith/awesome-cli-tool.git
-# 2) https://gitlab.com/devteam/productivity-suite.git
-# 选择要安装的仓库: 1
-# 📦 Cloning repository...
-# 🔧 Found install script
-# ...
-# ✅ Installation complete!
 工具特点
 跨平台支持：
 
